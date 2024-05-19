@@ -8,7 +8,7 @@ const config: Config = {
   ],
   theme: {
     backgroundImage: {
-      img_bg_hero: "url('/public/bg-hero.jpg')",
+      img_bg_hero: "url('/bg-hero.jpg')",
     },
     extend: {
       colors: {

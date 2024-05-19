@@ -1,3 +1,11 @@
+import Hero from "./_components/hero";
+import Services from "./_components/services";
+
 export default function Home() {
-  return <h1 className="text-3xl">Langpage</h1>;
+  return (
+    <>
+      <Hero />
+      <Services />
+    </>
+  );
 }
